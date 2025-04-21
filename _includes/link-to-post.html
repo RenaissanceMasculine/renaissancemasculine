@@ -1,0 +1,6 @@
+{% assign post_title = site.posts | where: "url", post_url | first %}
+<a class="page-next" href="{{ post_url }}">
+  <span class="page-pagination-title">
+    &#128218; **Lisez aussi:** <i class="fas fa-arrow-right"></i>  {{ post_title.title }}
+  </span>
+</a>
