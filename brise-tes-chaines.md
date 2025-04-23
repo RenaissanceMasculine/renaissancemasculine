@@ -253,7 +253,7 @@ last_modified_at: 2024-11-06T21:00:52-05:00
           <div class="stars">★★★★★</div>
         </div>
         <div class="testimonial-item">
-          <img src="/images/people/bill.avif" alt="Photo de client">
+          <img src="/images/people/bill.png" alt="Photo de client">
           <p>“J’étais complètement abattu. Aujourd’hui, je me sens prêt à avancer. le travail avec Guillaume a vraiment changé ma façon de réagir à la douleur.”</p>
           <div class="stars">★★★★★</div>
         </div>
