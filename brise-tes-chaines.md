@@ -212,7 +212,7 @@ last_modified_at: 2024-11-06T21:00:52-05:00
       </button>
     </div>
     <div class="social-proof">
-      <p>Si tu lis ces lignes, c'est que tu traverses probablement une période difficile. <br> Rupture, trahison... La douleur est immense, je le sais. </p> <p>C'est pour aider des hommes comme toi que j'ai créé <b>lapres-liaison.com</b></p>
+      <p>Si tu lis ces lignes, c'est que tu traverses probablement une période difficile. <br> Rupture, trahison... La douleur est immense, je le sais. </p> <p>C'est pour aider des hommes comme toi que j'ai créé <b>renaissancemasculine.com</b></p>
       
       <p><strong>Vous n’êtes pas seul. Vous n’êtes PLUS seul. </strong></p>
       Depuis plus de 2 ans, j’accompagne des d’hommes à surmonter la douleur et à retrouver la maîtrise de leurs émotions. <br>
@@ -313,4 +313,7 @@ last_modified_at: 2024-11-06T21:00:52-05:00
       });
     });
   </script>
+
+  {% include youtube-follow.html %}
+  
 </body>
