@@ -52,6 +52,9 @@ Et quand elle est émotionnellement immature et peu sûre d'elle... l'homme doit
 
 Ou alors, il se tournera vers elle pour qu'elle le rassure sur lui-même et lui dise qu'il est un bon garçon ou un chic-type. Il tirera cette énergie maternelle d'elle. Elle ne peut pas être votre amante si elle est votre mère. Et si elle doit être votre mère... elle n'aura pas l'impression qu'il est un grand protecteur fort qui peut tout écraser dans le monde. Elle percevra qu'elle a fait le mauvais choix.
 
+{% assign post_url = '/homme/mental/homme-emotionnellement-deregule/' %}
+{% include link-to-post.html %}
+
 Et ces deux scénarios mènent au point n°4
 
 ## 4. Il ne sais pas commnuniquer
@@ -81,13 +84,11 @@ Pourquoi ? Parce qu'il ne se valorise pas, il ne comprend pas que les femmes ont
 
 Il est constamment paralysé, et donc toute la dynamique sexuelle et son bonheur général disparaissent. Il se traîne chaque jour en se disant : "C'est ma vie... c'est dur... mais c'est ma vie" et ne fait absolument rien pour changer les choses...
 
-
-
 # Un Homme est souvent dans l'impasse car:
-* il ne se valorise pas
-* il ne comprend pas les femmes
-* il n'a aucune maîtrise de soi émotionnelle
-* il ne sais pas communiquer 
+* il ne se valorise pas,
+* il ne comprend pas les femmes,
+* il n'a aucune maîtrise émotionnelle,
+* il ne sait pas communiquer, 
 * sa vision n'a pas beaucoup d'importance pour lui. 
 
 *******************************
