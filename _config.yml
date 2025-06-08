@@ -22,7 +22,7 @@ description: "Articles et ressources pour guérir, se reconstruire et avancer ap
 baseurl: "" # the subpath of your site, e.g. "/blog"
 #url: "https://renaissancemasculine.github.io/renaissancemasculine" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url: "https://renaissancemasculine.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: /images/RM-logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%-d %B , %Y"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: 300 # 250
