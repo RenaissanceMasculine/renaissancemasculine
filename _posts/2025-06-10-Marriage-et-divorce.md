@@ -3,7 +3,7 @@ title: "Statistiques sur le divorce et l'infidélité."
 author: "Guillaume"
 image: 
   path: /images/infidelite-hero.png
-  thumbnail: /images/divorce-stats-v2.png
+  thumbnail: /images/divorce-stats.png
   caption: "Le divorce n'est pas ne fatalité. Vous avez le temps de sauver votre mariage en agissant!"
 categories:
   - Infidélité
