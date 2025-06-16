@@ -22,7 +22,6 @@ Une Plongée Statistique dans le Divorce et l'Infidélité dans le Monde Occiden
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Infographie : Divorce, Infidélité et Tendances Modernes</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -109,7 +108,7 @@ Une Plongée Statistique dans le Divorce et l'Infidélité dans le Monde Occiden
     </style>
 
     <!-- <header class="header-bg text-white text-center p-8 md:p-12">
-        <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight">L'UNION MODERNE</h1>
+        <h2 class="text-4xl md:text-6xl font-extrabold tracking-tight">L'UNION MODERNE</h2>
         <p class="mt-4 text-lg md:text-xl max-w-3xl mx-auto text-blue-200">Une Plongée Statistique dans le Divorce et l'Infidélité dans le Monde Occidental</p>
     </header> -->
 
