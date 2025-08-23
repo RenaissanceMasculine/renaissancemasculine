@@ -97,6 +97,37 @@ last_modified_at: 2024-11-06T21:00:52-05:00
       padding-bottom: 5px; font-weight: bold;
     }
     .faq-answer { display: none; margin-left: 20px; margin-bottom: 15px; }
+
+    /* Sticky CTA visible uniquement sur mobile/tablette */
+    .sticky-cta {
+      display: none;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background-color: #d9534f;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      font-size: 1.1em;
+      font-weight: bold;
+      z-index: 9999;
+    }
+
+    .sticky-cta a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    .sticky-cta:hover {
+      background-color: #c9302c;
+    }
+
+    /* N’apparaît que sur mobile et tablette */
+    @media (max-width: 1024px) {
+      .sticky-cta { display: block; }
+    }
   </style>
   {% include head-custom.html %}
 </head>
@@ -194,6 +225,12 @@ last_modified_at: 2024-11-06T21:00:52-05:00
       answer.style.display = (answer.style.display === 'block') ? 'none' : 'block';
     }));
   </script>
+
+  <div class="sticky-cta">
+  <a href="https://www.skool.com/renaissance-masculine-8568/about/?utm_source=landing&utm_medium=sticky_cta&utm_campaign=phoenix_guide&utm_content={{ page.slug }}" target="_blank" rel="noopener">
+    🚀 Rejoindre Skool & obtenir le Guide PHOENIX
+  </a>
+</div>
 
   {% include youtube-follow.html %}
 </body>
