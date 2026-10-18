@@ -41,6 +41,12 @@ Comme tant de femmes qui essaient de déchiffrer le comportement masculin, ces h
 
 {% assign post_url = '/infid%C3%A9lit%C3%A9/homme/Epoux-trahis-moments-critiques/' %}
 {% include link-to-post.html %}
+{% assign post_url = '/homme/mental/avoir-confiance-en-soi/' %}
+{% include link-to-post.html %}
+
+{% assign post_url = '/relation/homme/comment-sauver-son-couple/' %}
+{% include link-to-post.html %}
+
 
 (Note : Le comportement des hommes aux première et deuxième étapes est généralement passif, complaisant et conciliant.)
 

@@ -87,3 +87,5 @@ Les femmes qui ont choisi le divorce et étaient au début d'une nouvelle relati
 
 *******************************
 {% include cta.html %}
+{% assign post_url = '/relation/homme/ma-femme-veut-divorcer/' %}
+{% include link-to-post.html %}
