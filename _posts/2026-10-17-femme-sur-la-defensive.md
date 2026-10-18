@@ -3,8 +3,8 @@ layout: post
 title: "Femme sur la défensive : comment désamorcer sans supplier"
 author: "Guillaume"
 image:
-  path: /images/communication-defensive.webp
-  thumbnail: /images/communication-defensive.webp
+  path: /images/femme-sur-la-defensive-hero.webp
+  thumbnail: /images/femme-sur-la-defensive-hero.webp
   caption: "Désamorcer la communication défensive dans le couple, sans supplier ni céder."
 categories:
   - Homme
