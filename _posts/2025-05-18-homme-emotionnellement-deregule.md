@@ -60,6 +60,9 @@ Comprendre l'origine de cette **hyperréactivité émotionnelle homme** est cruc
   
 {% assign post_url = '/homme/mental/dependance-affective/' %}
 {% include link-to-post.html %}
+{% assign post_url = '/homme/mental/controler-ses-emotions/' %}
+{% include link-to-post.html %}
+
 
 ## Les conséquences dévastatrices sur sa vie et ses relations
 

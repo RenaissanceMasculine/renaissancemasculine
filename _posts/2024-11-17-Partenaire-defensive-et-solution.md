@@ -35,6 +35,9 @@ Il est pertinent de se demander si sa posture défensive n'est pas, en partie, u
 
 {% assign post_url = '/homme/mental/dependance-affective/' %}
 {% include link-to-post.html %}
+{% assign post_url = '/homme/communication/femme-sur-la-defensive/' %}
+{% include link-to-post.html %}
+
 
 Cette introspection est d'autant plus importante que si l'un des partenaires – et cela vous inclut – n'est pas émotionnellement régulé ou s'il y a une dynamique de dépendance affective, la tendance à interpréter chaque remarque ou critique comme une attaque personnelle est significativement exacerbée. Dans une telle situation, entamer un travail sur soi n'est plus une option, mais une nécessité.
 
