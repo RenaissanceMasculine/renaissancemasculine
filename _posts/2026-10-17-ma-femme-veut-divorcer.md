@@ -16,7 +16,7 @@ tags:
   - Divorce
 last_modified_at: 2026-10-17T21:00:52-05:00
 ---
-Tu viens de l'entendre. Peut-être hier soir, dans la cuisine, pendant que les enfants dormaient. « Je veux divorcer. » Trois mots, et depuis, tout s'accélère dans ta tête : le logement, la garde, l'argent, l'avocat, le regard des autres. Tu ne dors plus. Tu rejoues chaque conversation. Tu cherches la phrase qui va tout réparer.
+Tu viens de l'entendre. Peut-être hier soir, dans la cuisine, pendant que les enfants dormaient. « Je veux divorcer. » Trois mots, et te voilà à Google, à 2 h du matin, à taper « ma femme veut divorcer mais pas moi : que faire ». Depuis, tout s'accélère dans ta tête : le logement, la garde, l'argent, l'avocat, le regard des autres. Tu ne dors plus. Tu rejoues chaque conversation. Tu cherches la phrase qui va tout réparer.
 
 Je suis Guillaume, papa de deux enfants, en pleine procédure de divorce. Je connais ces nuits-là, et je connais surtout les pièges qui l'accompagnent. Cet article n'est pas une promesse de réconciliation : c'est une boussole. Il va t'aider à distinguer ce qui est vraiment urgent de ce qui te fait paniquer, à éviter les trois erreurs qui aggravent la crise, et à poser un plan pour tenir les trente prochains jours.
 
