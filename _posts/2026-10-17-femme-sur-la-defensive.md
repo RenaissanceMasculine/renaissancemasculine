@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Femme sur la défensive : comment désamorcer sans supplier"
 author: "Guillaume"
 image:
@@ -27,9 +28,9 @@ La défensive n'est pas une réaction au hasard. C'est un système. Et ce systè
 
 Sous chaque « tu ne penses jamais à… » ou « c'est toujours pareil », il y a deux choses qui se sont accumulées depuis des mois, parfois des années.
 
-**Les épines.** Ce sont les ressentiments qu'elle n'a jamais digérés. Pas les sujets de vos disputes — les sentiments en dessous. Se sentir seule. Pas importante. Pas en sécurité. Pas écoutée. Une épine ne disparaît pas parce que la dispute du jour est terminée. Elle reste plantée.
+Ce sont des **ressentiments jamais digérés** qu'elle n'a jamais digérés. Pas les sujets de vos disputes — les sentiments en dessous. Se sentir seule. Pas importante. Pas en sécurité. Pas écoutée. Une épine ne disparaît pas parce que la dispute du jour est terminée. Elle reste plantée.
 
-**Les croyances.** À force d'épines, elle s'est construite une histoire sur toi : « il ne changera jamais », « il ne me comprend pas », « il ne m'écoute que quand ça l'arrange ». Quand cette croyance est installée, elle ne discute plus avec toi. Elle discute avec l'homme qu'elle a construit dans sa tête.
+À force de ressentiments non digérés, elle s'est construite **une histoire sur toi** : « il ne changera jamais », « il ne me comprend pas », « il ne m'écoute que quand ça l'arrange ». Quand cette croyance est installée, elle ne discute plus avec toi. Elle discute avec l'homme qu'elle a construit dans sa tête.
 
 Voilà pourquoi chaque discussion « repart de zéro » pour toi… et recharge tout pour elle. Toi, tu parles de la vaisselle. Elle, elle parle de dix ans de vaisselle. Ce n'est pas de la mauvaise foi : c'est un système de défense qui protège une blessure encore ouverte. C'est toute la mécanique de la **communication défensive** dans le couple.
 
@@ -48,7 +49,7 @@ Et c'est précisément ça qui désarme. Une personne sur la défensive est une 
 
 **L'émotion d'abord, le fond ensuite.** Jamais l'inverse. Ponter directement sur le fond — « mais écoute, les faits sont les faits » — c'est parler à un mur qui se renforce à chaque mot.
 
-## Le pattern qui change tout : Validation + Frontière
+## La formule qui change tout : Validation + Frontière
 
 Il existe une formule simple pour sortir de ce piège. Deux mouvements, toujours dans cet ordre :
 
@@ -68,11 +69,11 @@ Deux autres exemples pour l'intégrer :
 
 **Elle :** « Tu ne m'écoutes jamais, ça ne t'intéresse même pas ce que je vis. »
 
-> « J'entends que tu te sens seule dans tout ça. Et j'ai besoin qu'on se parle sans reproches pour pouvoir t'écouter vraiment. »
+> « J'entends que tu te sens seule dans tout ça. Mais j'ai besoin qu'on se parle sans reproches, sinon je ne peux pas t'écouter. »
 
 **Elle :** « C'est toujours moi qui porte tout dans cette maison. »
 
-> « Je comprends que tu sois à bout. Ce n'est pas pour autant que j'accepterai qu'on se parle sur ce ton — on reprend quand on est tous les deux calmes. »
+> « Je comprends que tu sois à bout. Mais je n'accepte pas qu'on se parle sur ce ton. On reprend quand on est tous les deux calmes. »
 
 À chaque fois, c'est le même geste : tu ne mords pas à l'hameçon, tu ne te justifies pas, tu ne supplies pas. Tu gères. Tu passes du garçon qui s'excuse à l'homme qui tient la barre.
 
