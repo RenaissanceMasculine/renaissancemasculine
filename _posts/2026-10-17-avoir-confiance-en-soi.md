@@ -3,8 +3,8 @@ layout: post
 title: "Avoir confiance en soi quand tout s'est effondré"
 author: "Guillaume"
 image:
-  path: /images/wave.jpg
-  thumbnail: /images/wave.jpg
+  path: /images/avoir-confiance-en-soi-hero.webp
+  thumbnail: /images/avoir-confiance-en-soi-hero.webp
   caption: "Retrouver confiance en soi après une infidélité ou une rupture : reconstruire brique par brique, preuve après preuve."
 categories:
   - Homme
