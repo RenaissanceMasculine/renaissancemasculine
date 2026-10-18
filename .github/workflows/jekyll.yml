@@ -70,4 +70,4 @@ jobs:
         run: |
           # Option C: git diff determines changed posts, live sitemap supplies
           # the canonical URLs (never guessed). No local state to maintain.
-          python3 scripts/indexnow-ping.py bd7485d382044241908f2893aac9ecfc https://renaissancemasculine.com/sitemap.xml --git-diff HEAD~1 || true
+          python3 scripts/indexnow-ping.py 074b176a87d44a08a29301e7de248e7e https://renaissancemasculine.com/sitemap.xml --git-diff HEAD~1 || true
