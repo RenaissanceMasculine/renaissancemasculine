@@ -54,7 +54,10 @@ Tu ne peux pas décider à sa place. Mais tu peux décider comment tu te tiens. 
 
 4. **Te faire accompagner tôt, plutôt que seul trop tard.** Un avocat pour comprendre tes droits — pas pour partir en guerre — et un espace pour poser ta tête : un homme de confiance, un thérapeute, des hommes qui ont traversé la même tempête. Plus tu attends, plus tu prends tes décisions dans le brouillard.
 
-Comprendre comment elle en est arrivée là ne la fera pas revenir, mais ça t'évite d'agir à l'aveugle. J'ai décortiqué [comment les femmes terminent leur mariage](/infidélité/homme/Comment-les-femmes-terminent-leur-mariage/) : les étapes du désengagement, une à une.
+Comprendre comment elle en est arrivée là ne la fera pas revenir, mais ça t'évite d'agir à l'aveugle. J'ai décortiqué les étapes du désengagement, une à une :
+
+{% assign post_url = '/infid%C3%A9lit%C3%A9/homme/Comment-les-femmes-terminent-leur-mariage/' %}
+{% include link-to-post.html %}
 
 ## Ce que tu contrôles, ce que tu ne contrôles pas
 
