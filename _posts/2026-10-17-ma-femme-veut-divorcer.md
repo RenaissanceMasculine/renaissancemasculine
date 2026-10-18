@@ -4,8 +4,8 @@ title: "Ma femme veut divorcer mais pas moi : que faire ?"
 description: "Ma femme veut divorcer mais pas moi : que faire ? Ce qui est vraiment urgent, les erreurs qui aggravent, et le plan pour tenir les 30 premiers jours."
 author: "Guillaume"
 image: 
-  path: /images/infidelite-hero.png
-  thumbnail: /images/femme-distante.jpg
+  path: /images/ma-femme-veut-divorcer-hero.webp
+  thumbnail: /images/ma-femme-veut-divorcer-hero.webp
   caption: "Ma femme veut divorcer mais pas moi : que faire pour tenir debout et protéger tes enfants ?"
 categories:
   - Relation
