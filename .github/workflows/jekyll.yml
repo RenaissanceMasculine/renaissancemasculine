@@ -62,6 +62,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # HEAD~1 must exist for the IndexNow git diff
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
