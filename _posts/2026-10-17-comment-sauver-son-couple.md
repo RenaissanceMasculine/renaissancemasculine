@@ -4,8 +4,8 @@ title: "Comment sauver son couple quand tout semble perdu"
 author: "Guillaume"
 description: "Comment sauver son couple quand tout semble perdu : les 3 erreurs qui tuent la reconstruction et ce que tu peux réellement reprendre en main, quoi qu'elle décide."
 image:
-  path: /images/wave.jpg
-  thumbnail: /images/wave.jpg
+  path: /images/comment-sauver-son-couple-hero.webp
+  thumbnail: /images/comment-sauver-son-couple-hero.webp
   caption: "La tempête ne décide pas de l'issue : c'est ta façon de la traverser."
 categories:
   - Relation
