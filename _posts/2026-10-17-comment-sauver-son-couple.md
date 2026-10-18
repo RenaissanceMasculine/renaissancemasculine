@@ -105,7 +105,9 @@ Pendant des mois, tu t'es peut-être effacé pour lui plaire. Tu as cessé d'êt
 
 ### Tes standards
 
-Enfin, tes limites. Ce que tu acceptes, ce que tu refuses. Dire non calmement, tenir parole, ne pas céder sur ce qui compte — même quand elle insiste, même quand ça coûte. L'amour ne survit pas quand l'un des deux s'écrase pour avoir la paix. Établir des standards clairs, c'est te respecter toi-même — et c'est exactement ce qu'elle doit pouvoir lire en toi.
+Enfin, tes limites. Ce que tu acceptes, ce que tu refuses. Dire non calmement, tenir parole, ne pas céder sur ce qui compte — même quand elle insiste, même quand ça coûte.
+
+Scène reconnaissable : elle réclame que tu annules ta soirée pour la troisième fois cette semaine. Tu réponds calmement : « Je tiens à toi, et je ne vais pas annuler. Je rentre à 22 h. » Elle insiste, tu ne cèdes pas, sans colère. C'est ça, un standard tenu. L'amour ne survit pas quand l'un des deux s'écrase pour avoir la paix. Établir des standards clairs, c'est te respecter toi-même — et c'est exactement ce qu'elle doit pouvoir lire en toi.
 
 ## Comment sauver son mariage : la promesse honnête
 
