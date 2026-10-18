@@ -59,7 +59,33 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    permissions:
+      contents: write # required to commit the sitemap-urls cache back
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: IndexNow - notify search engines of changed URLs
+        if: github.event_name == 'push'
+        run: |
+          curl -s https://renaissancemasculine.com/sitemap.xml -o /tmp/sitemap-after.xml
+          # Extract current (post-deploy) URLs; compare with a cached previous list if one exists
+          if [ -f sitemap-urls-prev.txt ]; then
+            python3 scripts/indexnow-ping.py bd7485d382044241908f2893aac9ecfc https://renaissancemasculine.com/sitemap.xml --before sitemap-urls-prev.txt || true
+          else
+            python3 scripts/indexnow-ping.py bd7485d382044241908f2893aac9ecfc || true
+          fi
+          # Update cache for next run: extract <loc> URLs from the fresh build
+          grep -oE '<loc>[^<]+</loc>' /tmp/sitemap-after.xml | sed -e 's/<[^>]*>//g' > sitemap-urls-prev.txt
+          # Commit the cache back so the next run can diff against it
+          git config user.name "Coach-Guillaume"
+          git config user.email "guillaume@renaissancemasculine.com"
+          git add sitemap-urls-prev.txt
+          if git diff --cached --quiet; then
+            echo "No sitemap change to store."
+          else
+            git commit -m "chore: update IndexNow URL cache [skip ci]"
+            git push
+          fi
