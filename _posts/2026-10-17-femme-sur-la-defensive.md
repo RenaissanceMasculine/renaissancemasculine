@@ -28,7 +28,7 @@ La défensive n'est pas une réaction au hasard. C'est un système. Et ce systè
 
 Sous chaque « tu ne penses jamais à… » ou « c'est toujours pareil », il y a deux choses qui se sont accumulées depuis des mois, parfois des années.
 
-Ce sont des **ressentiments jamais digérés** qu'elle n'a jamais digérés. Pas les sujets de vos disputes — les sentiments en dessous. Se sentir seule. Pas importante. Pas en sécurité. Pas écoutée. Une épine ne disparaît pas parce que la dispute du jour est terminée. Elle reste plantée.
+Ce sont des **ressentiments jamais digérés** — pas les sujets de vos disputes, les sentiments en dessous. Pas les sujets de vos disputes — les sentiments en dessous. Se sentir seule. Pas importante. Pas en sécurité. Pas écoutée. Une épine ne disparaît pas parce que la dispute du jour est terminée. Elle reste plantée.
 
 À force de ressentiments non digérés, elle s'est construite **une histoire sur toi** : « il ne changera jamais », « il ne me comprend pas », « il ne m'écoute que quand ça l'arrange ». Quand cette croyance est installée, elle ne discute plus avec toi. Elle discute avec l'homme qu'elle a construit dans sa tête.
 
@@ -47,7 +47,7 @@ La première erreur des hommes, c'est de croire qu'écouter, c'est céder. Que r
 
 Et c'est précisément ça qui désarme. Une personne sur la défensive est une personne qui se sent attaquée. Si tu passes cinq minutes à prouver qu'elle a tort d'être blessée, tu ne fais qu'enfoncer l'épine. Si tu commences par reconnaître qu'elle est blessée, le système de défense se relâche — et c'est seulement là qu'elle peut t'entendre.
 
-**L'émotion d'abord, le fond ensuite.** Jamais l'inverse. Ponter directement sur le fond — « mais écoute, les faits sont les faits » — c'est parler à un mur qui se renforce à chaque mot.
+**L'émotion d'abord, le fond ensuite.** Jamais l'inverse. Passer directement au fond — « mais écoute, les faits sont les faits » — c'est parler à un mur qui se renforce à chaque mot.
 
 ## La formule qui change tout : Validation + Frontière
 
@@ -90,7 +90,7 @@ Quatre réflexes qui transforment une étincelle en incendie :
 {% assign post_url = '/homme/communication/Cavaliers-apocalypse-communication/' %}
 {% include link-to-post.html %}
 
-4. **Ponter sur le fond avant l'émotion.** Elle est en larmes, et tu déroules tes arguments logiques. Le fond est peut-être vrai, mais elle ne peut pas l'entendre tant que son émotion n'est pas reconnue. L'ordre compte.
+4. **Passer au fond avant l'émotion.** Elle est en larmes, et tu déroules tes arguments logiques. Le fond est peut-être vrai, mais elle ne peut pas l'entendre tant que son émotion n'est pas reconnue. L'ordre compte.
 
 ## Ce qui reste entre tes mains
 
