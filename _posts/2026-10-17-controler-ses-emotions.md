@@ -8,8 +8,8 @@ image:
   thumbnail: /images/wave.jpg
   caption: "Tu ne contrôles pas la mer. Mais tu peux devenir le phare."
 categories:
-  - Mental
   - Homme
+  - Mental
 tags:
   - Relation
   - Homme
@@ -101,7 +101,7 @@ Quatre principes t'y mènent. Ce ne sont pas les étapes d'un protocole : c'est 
 
 **Le corps d'abord, le souffle d'abord.** Le hijack est physiologique : cœur qui s'emballe, mâchoire serrée. La porte de sortie l'est donc aussi. Ralentir sa respiration, expirer plus longuement qu'on n'inspire, signale au corps que l'urgence est finie et ramène le sang vers le cortex. C'est la **cohérence cardiaque**, le seul levier qui marche quand la logique est éteinte. Tu ne peux pas penser ta sortie du hijack ; tu peux respirer ta sortie.
 
-**Nommer pour dompter.** Tant qu'une émotion reste une boule diffuse, elle te commande. Dès que tu la nommes — « je suis en train de vivre un hijack », « il y a de la tension dans ma gorge » — tu reprends un millimètre de distance. Nommer, c'est observer au lieu de subir.
+**Nommer pour désamorcer.** Tant qu'une émotion reste une boule diffuse, elle te commande. Dès que tu la nommes — « je suis en train de vivre un hijack », « il y a de la tension dans ma gorge » — tu reprends un millimètre de distance. Nommer, c'est observer au lieu de subir.
 
 **Le délai de réponse.** Cet espace, tu l'agrandis concrètement : une seconde de pause, trois expirations lentes, une phrase différée — « on en reparle demain, à froid ». C'est dans cette seconde que se joue la différence entre **réagir** et **répondre**.
 
