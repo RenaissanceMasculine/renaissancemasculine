@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Avoir confiance en soi quand tout s'est effondré"
 author: "Guillaume"
 image:
@@ -12,7 +13,7 @@ tags:
   - Homme
   - Mental
   - Relation
-description: "Avoir confiance en soi après une infidélité ou une rupture : comprends pourquoi ta confiance s'est effondrée, et pourquoi elle ne se reconstruit que par des preuves."
+description: "Avoir confiance en soi après une infidélité ou une rupture : comprends pourquoi ta confiance s'est effondrée, et comment elle se reconstruit : par des preuves."
 last_modified_at: 2026-10-17T21:00:00-05:00
 ---
 
@@ -50,9 +51,9 @@ C'est pour ça que les « pense positif » ne marchent pas.
 
 Tu peux te répéter cent fois que tu as de la valeur : ton cerveau a des centaines de preuves du contraire, rejouées nuit après nuit. Une affirmation, ce n'est pas une preuve. **La confiance en soi ne se décrète pas. Elle ne se pense pas. Elle se prouve.**
 
-C'est exactement la différence entre l'estime de soi et la confiance en soi. L'estime, c'est ce que tu crois valoir. La confiance, c'est ce que tu as vérifié que tu es capable de faire. Un homme ne retrouve pas la foi en lui-même à coups de phrases : il la reconstruit à coups d'actes.
+C'est exactement la différence entre l'estime de soi et la confiance en soi. L'estime de soi, chez un homme, c'est ce qu'il croit valoir. La confiance, c'est ce que tu as vérifié que tu es capable de faire. Un homme ne retrouve pas la foi en lui-même à coups de phrases : il la reconstruit à coups d'actes.
 
-## La confiance se prouve : la parole tenue envers toi-même
+## Avoir confiance en soi : la parole tenue envers toi-même
 
 La confiance en soi n'est rien d'autre que la confiance en ta propre parole.
 
@@ -76,7 +77,7 @@ Tant que ta valeur dépend du regard de l'autre — elle, ou n'importe qui — t
 
 Tu n'es pas la voix qui te condamne dans ta tête — tu es celui qui l'entend. Il y a une différence, et cette différence est un espace. Dans cet espace, tu peux choisir de ne plus croire le verdict.
 
-Et tu n'as pas besoin de te « reconstruire » comme on ajoute des pièces à une machine cassée. Le vrai travail, c'est l'inverse : retirer. Retirer la honte, la culpabilité, la peur — tout ce qui n'est pas toi — jusqu'à ce qu'il ne reste que l'homme qui était là avant.
+Et tu n'as pas besoin de te « reconstruire » à coups de volonté. Le vrai travail, c'est l'inverse : retirer. Retirer la honte, la culpabilité, la peur — tout ce qui n'est pas toi — jusqu'à ce qu'il ne reste que l'homme qui était là avant.
 
 ## Elle ne revient pas en un clic
 
