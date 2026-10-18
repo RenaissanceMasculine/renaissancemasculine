@@ -4,8 +4,8 @@ title: "Contrôler ses émotions : de thermomètre à thermostat"
 author: "Guillaume"
 description: "Contrôler ses émotions ne suffit pas : apprends à les gérer pour répondre au lieu de réagir. Comprends le hijack émotionnel et passe de thermomètre à thermostat."
 image:
-  path: /images/wave.jpg
-  thumbnail: /images/wave.jpg
+  path: /images/controler-emotions-thermostat-hero.webp
+  thumbnail: /images/controler-emotions-thermostat-hero.webp
   caption: "Tu ne contrôles pas la mer. Mais tu peux devenir le phare."
 categories:
   - Homme
