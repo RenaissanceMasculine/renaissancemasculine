@@ -2,7 +2,7 @@
 layout: post
 title: "Comment sauver son couple quand tout semble perdu"
 author: "Guillaume"
-description: "Comment sauver son couple quand tout semble perdu : les 3 erreurs qui tuent la reconstruction et ce que tu contrôles vraiment pour reprendre le contrôle."
+description: "Comment sauver son couple quand tout semble perdu : les 3 erreurs qui tuent la reconstruction et ce que tu peux réellement reprendre en main, quoi qu'elle décide."
 image:
   path: /images/wave.jpg
   thumbnail: /images/wave.jpg
@@ -21,7 +21,7 @@ Il est 2 h du matin. La maison dort, mais pas toi. Tu es là, téléphone à la 
 
 Tu as déjà lu des articles. Tu connais les signes, les étapes, la descente aux enfers. Tu sais nommer ce qui t'arrive. Mais savoir ne t'a pas apaisé : ça t'a laissé face à une question plus brutale encore. **Et maintenant, je fais quoi ?**
 
-Je suis Guillaume, papa de 2 enfants, en pleine procédure de divorce. Cette nuit-là, je l'ai vécue. Et je peux te dire ce que j'aurais voulu entendre à ce moment précis : « tout semble perdu » n'est pas un verdict. C'est un état émotionnel. Il y a un chemin pour en sortir — pas en multipliant les gestes de panique, mais en arrêtant de faire ce qui tue tes chances.
+Je suis Guillaume, papa de 2 enfants, en pleine procédure de divorce. Et je peux te dire ce que j'aurais voulu entendre à ce moment précis : « tout semble perdu » n'est pas un verdict. C'est un état émotionnel. Il y a un chemin pour en sortir — pas en multipliant les gestes de panique, mais en arrêtant de faire ce qui tue tes chances.
 
 Cet article va te montrer les trois erreurs qui enterrent toute reconstruction, et ce que tu contrôles vraiment, aujourd'hui, quoi qu'elle décide.
 
@@ -33,7 +33,7 @@ Tu as l'impression que tout est fini, que le couple est au bord de la rupture et
 
 Un couple au bord de la rupture n'est pas un couple déjà mort. C'est un couple en crise. Et une crise, ça se traverse. Pas à coups de panique. Avec un ordre.
 
-## Pourquoi tu te sens perdu
+## Comment sauver son couple : pourquoi tu te sens perdu
 
 Avant de parler de ce qu'il faut faire, il faut comprendre pourquoi « perdu » est le mot juste. Trois mécanismes tournent en boucle dans ta tête, et ils fabriquent à eux trois cette sensation de naufrage.
 
@@ -101,11 +101,11 @@ Dans la tempête, ce qui compte, ce n'est pas de crier plus fort. C'est d'être 
 
 ### Ton identité
 
-Pendant des mois, tu t'es peut-être effacé pour lui plaire. Tu as cessé d'être toi pour devenir ce qu'elle semblait attendre. C'est là que tu t'es perdu. Reprendre le contrôle, c'est redevenir l'homme que tu respectes quand tu te regardes dans le miroir : celui qui a des passions, des projets, une vie à lui. **Un homme sans excuses, qui se sent bien dans sa peau, qui aime sa vie et qui sait dire non.** Pas un complaisant en quête d'approbation.
+Pendant des mois, tu t'es peut-être effacé pour lui plaire. Tu as cessé d'être toi pour devenir ce qu'elle semblait attendre. C'est là que tu t'es perdu. Reprendre pied, c'est redevenir l'homme que tu respectes quand tu te regardes dans le miroir : celui qui a des passions, des projets, une vie à lui. **Un homme sans excuses, qui se sent bien dans sa peau, qui aime sa vie et qui sait dire non.** Pas un complaisant en quête d'approbation.
 
 ### Tes standards
 
-Enfin, tes limites. Ce que tu acceptes, ce que tu refuses. Dire les choses calmement, tenir ta parole, ne pas céder sur ce qui compte. L'amour ne survit pas quand l'un des deux s'écrase pour avoir la paix. Établir des standards clairs, c'est te respecter toi-même — et c'est exactement ce qu'elle doit pouvoir lire en toi.
+Enfin, tes limites. Ce que tu acceptes, ce que tu refuses. Dire non calmement, tenir parole, ne pas céder sur ce qui compte — même quand elle insiste, même quand ça coûte. L'amour ne survit pas quand l'un des deux s'écrase pour avoir la paix. Établir des standards clairs, c'est te respecter toi-même — et c'est exactement ce qu'elle doit pouvoir lire en toi.
 
 ## Comment sauver son mariage : la promesse honnête
 
@@ -113,7 +113,7 @@ Alors, comment sauver son couple, concrètement ? Voici ce que je peux te promet
 
 Je ne te promets pas qu'elle reviendra. Personne d'honnête ne peut te le promettre, et quiconque le fait te ment.
 
-Je te promets qu'il existe un chemin. Que les erreurs qui ont détruit des milliers de couples avant toi sont évitables, une fois qu'on te les montre. Et qu'il y a une chose sur laquelle tu peux obtenir un résultat garanti, toi : **reprendre le contrôle de ta vie, reprendre pied, en moins d'un mois.** Quoi qu'elle décide, tu cesses d'être le passager de ton propre couple, et tu redeviens l'homme qui décide.
+Je te promets qu'il existe un chemin. Que les erreurs qui ont détruit des milliers de couples avant toi sont évitables, une fois qu'on te les montre. Et il y a une chose qui ne dépend que de toi : **reprendre pied, retrouver la main sur ta vie, dès les prochaines semaines.** Quoi qu'elle décide, tu cesses d'être le passager de ton propre couple, et tu redeviens l'homme qui décide.
 
 C'est la seule base possible. Pas pour la « reconquérir » par la manipulation — mais pour redevenir un homme qu'elle respecte, ou que tu seras fier d'être, quelle que soit la suite.
 
