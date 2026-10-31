@@ -107,6 +107,11 @@ Quatre principes t'y mènent. Ce ne sont pas les étapes d'un protocole : c'est 
 
 **L'entretien quotidien.** On ne construit pas l'arche quand la pluie tombe déjà. Des années de réactions identiques ont creusé des **ornières neuronales** dans ton cerveau, comme l'eau creuse un canyon. La **régulation émotionnelle** se travaille dans les périodes calmes, pas en pleine crise. C'est un entraînement, des répétitions, pas une décision unique.
 
+Si l'émotion monte maintenant et qu'il te faut un réflexe concret avant tout le reste, j'ai écrit l'exercice de régulation d'urgence : cinq minutes pour redescendre, à faire n'importe où.
+
+{% assign post_url = '/homme/soutien/gerer-ses-emotions-en-urgence/' %}
+{% include link-to-post.html %}
+
 Ces principes sont la base. Le protocole détaillé, pas à pas, se trouve dans le Guide gratuit.
 
 ## Le phare et la mer

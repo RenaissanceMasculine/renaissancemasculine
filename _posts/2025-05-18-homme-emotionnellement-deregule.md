@@ -107,6 +107,11 @@ La clé durable réside dans le développement de la capacité à **s'auto-régu
     * L'écriture peut aussi être un excellent exutoire et un moyen de clarifier ses pensées.
 5.  **Restructurer les pensées négatives :** Apprendre à identifier les distorsions cognitives qui alimentent la rumination et à les remplacer par des pensées plus réalistes et constructives.
 
+Besoin d'un exercice concret à pratiquer dans l'urgence, quand l'émotion devient trop forte ? La régulation d'urgence en 5 minutes peut vous aider à redescendre sur le moment :
+
+{% assign post_url = '/homme/soutien/gerer-ses-emotions-en-urgence/' %}
+{% include link-to-post.html %}
+
 ## Comment Renaissance Masculine accompagne les hommes sur ce chemin
 
 Chez Renaissance Masculine, nous comprenons la complexité de la **dérégulation émotionnelle** et de la **rumination chez l'homme**. Notre accompagnement est conçu pour vous aider à :
