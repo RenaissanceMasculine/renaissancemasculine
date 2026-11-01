@@ -88,6 +88,11 @@ L'exercice n'empêche pas les vagues : il t'apprend à ne plus te noyer dedans. 
 
 Et une limite honnête : si les vagues reviennent plusieurs fois par jour depuis des semaines, si tu dors trois heures par nuit depuis un mois, si tu noies tout ça dans l'alcool — un exercice ne suffira pas. Parler à un médecin ou à un psychologue n'est pas un aveu de faiblesse. C'est le même courage que celui qui t'a fait lire cet article jusqu'ici.
 
+Et quand la vague est retombée, il reste la question de fond : à qui parler de tout ça ? Les six soutiens possibles après une séparation — et l'angle mort de chacun — sont détaillés ici :
+
+{% assign post_url = '/homme/soutien/a-qui-parler-apres-une-separation/' %}
+{% include link-to-post.html %}
+
 ## Les trois erreurs qui gâchent tout
 
 **Respirer pour faire partir l'émotion.** Si tu fais l'exercice en serrant les dents pour que ça s'arrête enfin, tu résistes à la vague — et une vague à laquelle on résiste revient toujours. L'expiration longue ne chasse rien : elle accueille la montée pour la laisser passer. **Accueillir l'émotion n'est pas être d'accord avec elle.**
