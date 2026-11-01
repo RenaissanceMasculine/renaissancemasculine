@@ -96,6 +96,11 @@ Tu ne contrôles pas ce qu'elle a fait. Tu ne contrôles pas ce qu'elle fera. Ma
 
 Ce n'est pas un protocole. C'est le terrain sur lequel tout le reste se construira.
 
+Et ce terrain ne se construit pas seul — savoir à qui parler quand tout s'effondre fait partie des leviers qui te restent :
+
+{% assign post_url = '/homme/soutien/a-qui-parler-apres-une-separation/' %}
+{% include link-to-post.html %}
+
 Si tu es encore en pleine tempête — la découverte, le choc, la spirale — commence par comprendre où tu en es :
 
 {% assign post_url = '/infid%C3%A9lit%C3%A9/homme/Descente-aux-enfers-des-epoux-trahis/' %}
