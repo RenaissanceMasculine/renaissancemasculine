@@ -54,6 +54,11 @@ Si ta situation inclut une trahison, tu portes une couche de douleur en plus. Et
 
 La réponse honnête : oui, des couples se reconstruisent après une liaison. Mais jamais en effaçant la trahison, jamais en faisant comme si de rien n'était. Ce qui semble impossible, c'est de « revenir en arrière ». Et c'est vrai : on ne revient pas en arrière. La reconstruction ne consiste pas à retrouver l'avant, mais à bâtir un après — et ça, ça n'arrive que si toi, d'abord, tu redeviens un homme stable. Pas un homme qui attend son pardon.
 
+Et dans cet « après », la question qui revient toujours : comment reconstruire la confiance après une infidélité, sans refaire les erreurs qui achèvent tout ? Ce qui répare vraiment la confiance est détaillé ici :
+
+{% assign post_url = '/homme/reconqu%C3%AAte/comment-reconstruire-la-confiance-apres-une-infidelite/' %}
+{% include link-to-post.html %}
+
 Ce qui rend la situation d'autant plus vertigineuse, c'est la façon dont elle met fin aux choses. Les femmes ne rompent pas comme les hommes.
 
 {% assign post_url = '/infid%C3%A9lit%C3%A9/homme/Comment-les-femmes-terminent-leur-mariage/' %}

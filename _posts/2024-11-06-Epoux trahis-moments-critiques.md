@@ -66,6 +66,11 @@ Le destin de votre mariage sera déterminé par la façon dont vous gérez les 3
 
 Comme vous pouvez le voir, vous avez de nombreuses opportunités de "corriger le tir". 
 
+Et si la confiance est déjà brisée, sachez qu'elle peut se reconstruire — non par les promesses, mais par des preuves accumulées dans le temps. Ce qu'il faut savoir pour reconstruire la confiance après une infidélité est détaillé ici :
+
+{% assign post_url = '/homme/reconqu%C3%AAte/comment-reconstruire-la-confiance-apres-une-infidelite/' %}
+{% include link-to-post.html %}
+
 n fait, il faut généralement de 12 à 24 mois pour qu'un mariage d'au moins quatre ans atteigne le point de rupture - le point où il n'y a pas de retour en arrière - et cela "après" la découverte de l'affaire. Mais il n'y a aucun moyen de savoir à l'avance quel point critique sera le dernier à mettre fin au mariage. 
 
 Donc, vous devez cesser de repousser la maîtrise de vos émotions - car la maîtrise de vos émotions est la clé pour maîtriser les moments critiques. Maîtrisez les 3 moments critiques et créez le résultat que vous souhaitez.
