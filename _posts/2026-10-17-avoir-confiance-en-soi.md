@@ -111,6 +111,11 @@ Et si tu te sens coincé, sans voir d'issue, c'est que quelque chose te bloque. 
 {% assign post_url = '/homme/mental/Hommes-impasse/' %}
 {% include link-to-post.html %}
 
+Un dernier point pour ne pas mélanger les deux chantiers : la confiance en toi ne répare pas la confiance dans le couple. Quand ta question est « est-ce qu'elle me mentira encore ? », c'est un autre travail — celui de reconstruire la confiance après une infidélité, à deux et sur la durée :
+
+{% assign post_url = '/homme/reconqu%C3%AAte/comment-reconstruire-la-confiance-apres-une-infidelite/' %}
+{% include link-to-post.html %}
+
 Te voilà avec la compréhension. Tu sais pourquoi ta confiance est tombée, et comment elle se reconstruit : par des preuves, pas par des pensées.
 
 Ce qui te manque maintenant, ce n'est pas un article de plus. C'est un plan d'action — et des hommes qui reprennent pied à tes côtés. C'est exactement pour ça que la communauté existe. Tu y trouveras le plan, pas à pas, et l'entraide de ceux qui traversent — ou ont traversé — la même chose que toi. La confiance se reconstruit plus vite quand on n'est pas seul à poser les briques.
