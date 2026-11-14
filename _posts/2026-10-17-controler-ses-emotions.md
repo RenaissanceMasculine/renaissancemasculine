@@ -62,6 +62,11 @@ Résultat : quand tu exploses, ce que tu montres n'est presque jamais ce que tu 
 
 **Gérer sa colère** ne commence donc pas par « se retenir », mais par une question simple : *qu'est-ce que je ressens, sous cette colère ?* Démasquer l'émotion cachée, c'est déjà la désarmer à moitié.
 
+Et quand cette colère est née d'une trahison — la rage qui protège la blessure, l'amertume qui s'installe — le terrain change, et il est détaillé ici :
+
+{% assign post_url = '/homme/%C3%A9motions/canaliser-sa-colere-apres-une-trahison/' %}
+{% include link-to-post.html %}
+
 ## « Contrôler ses émotions » : l'idée reçue qui te coûte cher
 
 « Contrôle-toi. » « Un homme, ça se maîtrise. » « Ressaisis-toi. »

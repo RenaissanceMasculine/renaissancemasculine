@@ -88,6 +88,11 @@ L'exercice n'empêche pas les vagues : il t'apprend à ne plus te noyer dedans. 
 * à trois heures du matin, quand la boucle tourne ;
 * après un appel avec l'avocat, ou après les avoir vus partir avec elle.
 
+Et quand la vague qui te submerge est la colère après une trahison — la rage, puis l'amertume qui s'installe — l'exercice te garde la tête froide, mais le travail de fond, celui d'apprendre à canaliser sa colère au lieu de la contenir, est ici :
+
+{% assign post_url = '/homme/%C3%A9motions/canaliser-sa-colere-apres-une-trahison/' %}
+{% include link-to-post.html %}
+
 Et une limite honnête : si les vagues reviennent plusieurs fois par jour depuis des semaines, si tu dors trois heures par nuit depuis un mois, si tu noies tout ça dans l'alcool — un exercice ne suffira pas. Parler à un médecin ou à un psychologue n'est pas un aveu de faiblesse. C'est le même courage que celui qui t'a fait lire cet article jusqu'ici.
 
 Et surtout : ne reste pas seul avec ça. Le réflexe après une trahison, c'est de fermer — faire bonne figure, tout porter, ne déranger personne. Mais ce qu'on ne partage pas ne disparaît pas : ça fermente.
