@@ -41,7 +41,7 @@ C'est pour ça que je dis que **la colère est le garde du corps de la douleur**
 
 Reste poli. Avale. Tiens. Puis le soir, dans la voiture garée devant la maison, tu gueules tout seul — et la honte arrive juste après.
 
-Pourtant la colère a sa place dans ce que tu traverses : après une infidélité comme dans tout deuil, les modèles classiques la décrivent comme une étape normale, pas une régression. La faire taire ne guérit rien : ça repousse juste le moment où elle te réclame son dû. **L'écouter ne veut pas dire lui obéir.** Et la première question n'est pas « comment me débarrasser de ma colère », mais « que veut-elle me dire ».
+Pourtant la colère a sa place dans ce que tu traverses : la psychologue Elisabeth Kübler-Ross, dans *On Death and Dying* (1969), l'a décrite comme l'une des étapes normales du deuil. Après une infidélité comme après une perte, ce n'est pas une régression. La faire taire ne guérit rien : ça repousse juste le moment où elle te réclame son dû. **L'écouter ne veut pas dire lui obéir.** Et la première question n'est pas « comment me débarrasser de ma colère », mais « que veut-elle me dire ».
 
 ## Canaliser sa colère : le troisième chemin
 
@@ -76,7 +76,7 @@ Tu relis les messages. Tu vérifies les indices. Tu construis la conversation qu
 
 C'est la **deuxième flèche**. La première, c'est la trahison : un fait, une douleur propre que tu n'as pas choisie. La deuxième, c'est celle que tu te tires toi-même à chaque replay — l'histoire que tu rallumes, la scène que tu rejoues, le scénario de revanche que tu polis. La première flèche dure un instant ; la deuxième, des mois.
 
-La rumination te donne l'illusion de travailler sur le problème. Elle ne fait que l'entretenir : chaque replay redébite la blessure et remet du carburant dans la chaudière. **Tu ne choisis pas la première flèche. La deuxième, c'est toi qui la tires — et c'est la seule des deux que tu peux lâcher.**
+La rumination te donne l'illusion de travailler sur le problème. Les travaux de la psychologue Susan Nolen-Hoeksema sur la rumination, menés depuis les années 1990, ont montré l'inverse : elle amplifie et prolonge la détresse au lieu de la résoudre. Chaque replay redébite la blessure et remet du carburant dans la chaudière. **Tu ne choisis pas la première flèche. La deuxième, c'est toi qui la tires — et c'est la seule des deux que tu peux lâcher.**
 
 ### 3. Vouloir tout porter seul
 
@@ -104,6 +104,8 @@ Ta colère ne se négocie pas. Mais trois leviers restent toujours à toi.
 Si tu crois en Dieu, sache que la prière est peut-être la seule conversation où tu n'as pas à te justifier. Tu peux y poser ta rage sans la cacher, sans la rendre présentable, sans jouer l'homme debout. Faire confiance à Dieu et à son amour **en dépit de la situation**, ce n'est pas fermer les yeux sur ce qui t'a été fait — c'est refuser que la trahison ait le dernier mot sur ta vie. Dans ton cœur, tu n'es jamais seul.
 
 Si cette page n'est pas la tienne, aucune injonction. Et dans tous les cas : la foi ne remplace ni le professionnel ni ceux qui ont traversé la même route — elle porte pendant que tu fais le travail.
+
+Une limite honnête, avant de conclure : si ta colère devient des coups, de l'alcool pour tenir, ou des pensées de te faire du mal, un article ne suffit pas. Parle-en à un médecin ou à un psychologue — ce n'est pas un aveu de faiblesse, c'est le geste d'un homme qui prend sa situation au sérieux.
 
 ***
 
