@@ -14,7 +14,7 @@ tags:
   - Relation
   - Homme
   - Infidélité
-last_modified_at: 2026-10-17T19:06:05-05:00
+last_modified_at: 2026-11-19T23:25:00-06:00
 ---
 
 Il est 2 h du matin. La maison dort, mais pas toi. Tu es là, téléphone à la main, à taper dans la barre de recherche exactement ces mots : « comment sauver son couple quand tout semble perdu ». Tu les as déjà tapés vingt fois cette semaine, avec des variantes, en espérant qu'une réponse, une seule, te dise enfin quoi faire.
@@ -123,6 +123,11 @@ Je ne te promets pas qu'elle reviendra. Personne d'honnête ne peut te le promet
 Je te promets qu'il existe un chemin. Que les erreurs qui ont détruit des milliers de couples avant toi sont évitables, une fois qu'on te les montre. Et il y a une chose qui ne dépend que de toi : **reprendre pied, retrouver la main sur ta vie, dès les prochaines semaines.** Quoi qu'elle décide, tu cesses d'être le passager de ton propre couple, et tu redeviens l'homme qui décide.
 
 C'est la seule base possible. Pas pour la « reconquérir » par la manipulation — mais pour redevenir un homme qu'elle respecte, ou que tu seras fier d'être, quelle que soit la suite.
+
+Et une fois cette base retrouvée, une autre question revient presque toujours : et l'intimité, la complicité, la flamme — tout ça, ça revient quand ? C'est le chantier d'après, et j'en ai fait le tour ici :
+
+{% assign post_url = '/relation/homme/comment-raviver-la-flamme-dans-un-couple/' %}
+{% include link-to-post.html %}
 
 ## Et maintenant, le plan
 
