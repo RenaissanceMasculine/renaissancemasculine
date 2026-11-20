@@ -12,7 +12,7 @@ tags:
   - Relation
   - Homme
   - Mental
-last_modified_at: 2024-11-06T21:00:52-05:00
+last_modified_at: 2026-11-19T23:25:00-06:00
 ---
 La dépendance affective chez l’homme en couple est un problème méconnu mais destructeur. 
 
@@ -72,7 +72,10 @@ Une faible estime de soi peut conduire à chercher l'approbation de son partenai
 L’un des problèmes récurrents chez les hommes mariés ou engagés dans une relation longue, c’est que les dynamiques du couple — notamment les difficultés ou une séparation — peuvent réveiller ou même créer de nouvelles blessures émotionnelles, ou raviver des blessures émotionnelles profondes. Cela peut entraîner une forme de dépendance affective qui, bien que discrète au départ, devient progressivement plus marquée et pesante. Voici un aperçu des causes fréquentes contribuant à cette situation :
 
 ### 1. La baisse du désir dans le couple
-Le désir est un pilier essentiel de l’intimité dans une relation. Lorsqu’il diminue, cela peut avoir un impact profond sur l’homme, notamment sur sa perception de lui-même et de son rôle dans la relation.
+Le désir est un pilier essentiel de l’intimité dans une relation. Lorsqu’il diminue, cela peut avoir un impact profond sur l’homme, notamment sur sa perception de lui-même et de son rôle dans la relation. Pour comprendre ce qui éteint le désir après une crise et comment la flamme peut se rallumer, voir également :
+
+{% assign post_url = '/relation/homme/comment-raviver-la-flamme-dans-un-couple/' %}
+{% include link-to-post.html %}
 
 #### La monotonie dans le couple :  
   Avec le temps, la routine s’installe, réduisant l’attrait mutuel. L’homme peut se sentir peu désiré, remettant en question sa valeur dans la relation.
