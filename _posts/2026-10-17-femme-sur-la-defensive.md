@@ -15,7 +15,7 @@ tags:
   - Dispute
   - Relation
 description: "Ma femme est sur la défensive et se braque pour un rien ? Pourquoi chaque dispute recharge tout l'historique, et comment désamorcer sans supplier ni céder."
-last_modified_at: 2026-10-17T21:00:00-05:00
+last_modified_at: 2026-11-26T23:55:00-06:00
 ---
 
 Tu poses une phrase simple — un besoin, une remarque, même une question anodine — et son visage se ferme. Elle se braque pour un rien. Ta femme est sur la défensive, et en trente secondes tu es en train de te justifier, de t'excuser, de supplier presque, alors que tu n'as rien fait de mal.
@@ -29,6 +29,11 @@ La défensive n'est pas une réaction au hasard. C'est un système. Et ce systè
 Sous chaque « tu ne penses jamais à… » ou « c'est toujours pareil », il y a deux choses qui se sont accumulées depuis des mois, parfois des années.
 
 Ce sont des **ressentiments jamais digérés** — pas les sujets de vos disputes, les sentiments en dessous. Pas les sujets de vos disputes — les sentiments en dessous. Se sentir seule. Pas importante. Pas en sécurité. Pas écoutée. Une épine ne disparaît pas parce que la dispute du jour est terminée. Elle reste plantée.
+
+Et ces épines, presque toujours, ce sont des besoins qui ne se sont jamais dits — les tiens comme les siens. J'ai décortiqué ce mécanisme ici :
+
+{% assign post_url = '/homme/pr%C3%A9vention/pourquoi-ma-femme-est-distante/' %}
+{% include link-to-post.html %}
 
 À force de ressentiments non digérés, elle s'est construite **une histoire sur toi** : « il ne changera jamais », « il ne me comprend pas », « il ne m'écoute que quand ça l'arrange ». Quand cette croyance est installée, elle ne discute plus avec toi. Elle discute avec l'homme qu'elle a construit dans sa tête.
 

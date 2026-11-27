@@ -12,7 +12,7 @@ tags:
   - Relation
   - Homme
   - Mental
-last_modified_at: 2026-11-19T23:25:00-06:00
+last_modified_at: 2026-11-26T23:55:00-06:00
 ---
 La dépendance affective chez l’homme en couple est un problème méconnu mais destructeur. 
 
@@ -30,7 +30,10 @@ Dans cet article, nous allons explorer les signes de cette dépendance, ses caus
 La dépendance affective est une attache excessive envers son partenaire, où le bien-être émotionnel dépend entièrement de l'approbation, de l'affection et de la validation reçues dans la relation. Bien que ce phénomène touche les hommes et les femmes, les hommes sont souvent moins enclins à en parler en raison des stigmates sociaux liés à la vulnérabilité émotionnelle.
 
 ## Signes courants de dépendance affective chez les hommes, contrats cachés et manipulation:
-La dépendance affective ne se manifeste pas toujours de manière flagrante. Elle touche beaucoup plus d'hommes qu'on ne le croit et peut s’installer discrètement, surtout quand une relation de longue durée commence à s’essouffler. L’homme, souvent sans s’en rendre compte, peut alors basculer dans une dynamique de plus en plus déséquilibrée, où il devient émotionnellement dépendant de l’autre. Ce phénomène s’accentue particulièrement lorsque la connexion émotionnelle ou l’intimité diminuent.
+La dépendance affective ne se manifeste pas toujours de manière flagrante. Elle touche beaucoup plus d'hommes qu'on ne le croit et peut s’installer discrètement, surtout quand une relation de longue durée commence à s’essouffler. L’homme, souvent sans s’en rendre compte, peut alors basculer dans une dynamique de plus en plus déséquilibrée, où il devient émotionnellement dépendant de l’autre. Ce phénomène s’accentue particulièrement lorsque la connexion émotionnelle ou l’intimité diminuent. Pour comprendre ce qui se perd dans un couple quand la distance s’installe, voir également :
+
+{% assign post_url = '/homme/pr%C3%A9vention/pourquoi-ma-femme-est-distante/' %}
+{% include link-to-post.html %}
 
 Voici quelques signes révélateurs :
 
